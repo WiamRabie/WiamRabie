@@ -126,24 +126,6 @@ Casablanca | **Juillet 2024**
 
 </details>
 
-<details>
-<summary>📊 GitHub Stats</summary>
-<br />
-
-<div align="center">
-
-  <img src="https://img.shields.io/github/followers/WiamRabie?style=for-the-badge&label=Followers&color=ffb6c1" />
-  <img src="https://img.shields.io/github/stars/WiamRabie?style=for-the-badge&label=Total%20Stars&color=d8b4fe" />
-  <img src="https://img.shields.io/github/repos/WiamRabie?style=for-the-badge&label=Public%20Repos&color=fde68a" />
-
-  <br /><br />
-
-  <img src="https://img.shields.io/github/last-commit/WiamRabie/WiamRabie?style=for-the-badge&label=Last%20Update&color=ffb6c1" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Data-d8b4fe?style=for-the-badge" />
-
-</div>
-
-</details>
 
 <details>
 <summary>🌷 More about me</summary>
