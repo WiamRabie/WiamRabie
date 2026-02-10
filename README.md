@@ -1,28 +1,24 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/WiamRabie/WiamRabie/main/assets/header.gif" width="55%" alt="Header image" />
 
-<img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--422281207608337/)](https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif)" width="60%" alt="Coding GIF" />
+  <h1>Hi, I’m Wiame 👩‍💻✨</h1>
 
-<h1>Hi, I’m Wiame 👩‍💻✨</h1>
+  <p>
+    <b>AI • Data Science • Generative AI • Digital Health</b>
+  </p>
 
-<p>
-<b>AI • Data Science • Generative AI • Digital Health</b>
-</p>
-
-<p>
-<a href="https://www.linkedin.com/in/wiam-rabie-64aaa5340/">
-  <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:rabiewiame@gmail.com">
-  <img src="https://img.shields.io/badge/Email-beige?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/WiamRabie">
-  <img src="https://img.shields.io/badge/GitHub-rose?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-soon-lavender?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio soon"/>
-</a>
-</p>
-
+  <p>
+    <a href="https://www.linkedin.com/in/wiam-rabie-64aaa5340/">
+      <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="mailto:rabiewiame@gmail.com">
+      <img src="https://img.shields.io/badge/Email-beige?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://github.com/WiamRabie">
+      <img src="https://img.shields.io/badge/GitHub-rose?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <img src="https://img.shields.io/badge/Portfolio-soon-lavender?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </p>
 </div>
 
 ---
