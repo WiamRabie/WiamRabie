@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding GIF" />
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--422281207608337/)" width="60%" alt="Coding GIF" />
 
 <h1>Hi, I’m Wiame 👩‍💻✨</h1>
 
@@ -37,7 +37,7 @@
 
 ---
 
-## 💖 Tech Stack (pastel & clean)
+## 💖 Tech Stack 
 
 ### 🧠 AI & Machine Learning
 ![Python](https://img.shields.io/badge/Python-pink?style=flat&logo=python&logoColor=white)
