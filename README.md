@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--422281207608337/)" width="60%" alt="Coding GIF" />
+<img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--422281207608337/)](https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif)" width="60%" alt="Coding GIF" />
 
 <h1>Hi, I’m Wiame 👩‍💻✨</h1>
 
