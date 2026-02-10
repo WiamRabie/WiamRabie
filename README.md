@@ -128,16 +128,14 @@ Casablanca | **Juillet 2024**
 
 <details>
 <summary>📊 GitHub Stats</summary>
-
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WiamRabie&show_icons=true&theme=rose_pine" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiamRabie&layout=compact&theme=rose_pine" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WiamRabie&show_icons=true&theme=rose_pine&cache_seconds=86400" width="48%" alt="GitHub stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WiamRabie&layout=compact&theme=rose_pine&cache_seconds=86400" width="48%" alt="Top languages" />
 </div>
 
 </details>
-
 
 <details>
 <summary>🌷 More about me</summary>
