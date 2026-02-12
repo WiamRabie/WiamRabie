@@ -55,60 +55,121 @@ FastAPI • REST API • SQL • Git • Docker • Jupyter
 ## ✨ Featured Projects
 
 ### 🤖 SkyBot — RAG AI Assistant
-AI assistant built using Retrieval-Augmented Generation (RAG), enabling users to ask
-questions over uploaded documents through a web interface.
+**Intelligent document-based assistant powered by Retrieval-Augmented Generation (RAG).**
 
-**Tech:** FastAPI • LangChain • FAISS • LLMs (Groq)  
-🔗 https://github.com/WiamRabie/skybot
+SkyBot allows users to upload documents and ask natural language questions through
+a web interface, combining semantic search with large language models.
 
----
+**Highlights**
+- Document ingestion & vector-based retrieval
+- Context-aware answer generation
+- REST API + interactive web UI
 
-### 🏦 Bank Fraud Detection
-Fraud and anomaly detection system for banking transactions using data-driven
-and machine learning approaches.
-
-**Tech:** Python • Pandas • scikit-learn • Anomaly Detection
-
----
-
-### 🦵 Knee Osteoarthritis (Gonarthrosis) Detection
-Deep learning model for detecting knee osteoarthritis (gonarthrosis) from
-medical imaging data.
-
-**Tech:** CNN • Deep Learning • Medical Imaging • Python
-
----
-
-### 🧠 Alzheimer’s Disease Detection (Deep Learning)
-Medical imaging project using deep learning techniques to detect Alzheimer’s
-disease from brain images.
-
-**Tech:** CNN • Deep Learning • Medical Imaging
+**Tech Stack:** FastAPI • LangChain • FAISS • LLMs (Groq)  
+🔗 GitHub: https://github.com/WiamRabie/skybot
 
 ---
 
 ### 🌍 Air Quality Analysis using Deep Learning
-Data science project based on the Beijing PM2.5 dataset (2010–2014), focusing on
-air quality analysis using machine learning and deep learning techniques.
+**Data-driven analysis of air pollution using machine learning and deep learning.**
 
-**Tech:** Python • Pandas • scikit-learn • Jupyter  
-🔗 https://github.com/WiamRabie/air-quality-analysis
+Project based on the Beijing PM2.5 dataset (2010–2014), focusing on data exploration,
+preprocessing, and modeling for environmental insights.
+
+**Highlights**
+- Exploratory Data Analysis (EDA)
+- Feature normalization & preprocessing
+- ML / DL experimentation (training optional)
+
+**Tech Stack:** Python • Pandas • scikit-learn • Jupyter  
+🔗 GitHub: https://github.com/WiamRabie/air-quality-analysis
+
+---
+
+### 🌸 Iris Species Classification — ML Pipeline
+**End-to-end supervised machine learning pipeline for classification tasks.**
+
+Complete workflow covering data analysis, preprocessing, model training,
+hyperparameter tuning, and evaluation using classical ML algorithms.
+
+**Key Results**
+- KNN (k=3): 100% test accuracy, 92.5% CV accuracy
+- Random Forest: 100% test accuracy after tuning
+
+**Tech Stack:** Python • scikit-learn • pandas • numpy • matplotlib • seaborn  
+🔗 GitHub: https://github.com/WiamRabie/iris-ml-classification-pipeline  
+🚀 Colab: https://colab.research.google.com/github/WiamRabie/iris-ml-classification-pipeline/blob/main/notebooks/01_iris_classification_pipeline.ipynb
 
 ---
 
 ### 💬 WhatsApp Intelligent Agent (MVP)
-Intelligent WhatsApp agent designed to automate customer orders, validate requests,
-and interact with backend systems.
+**AI-powered WhatsApp agent for order automation and intelligent request handling.**
 
-**Tech:** FastAPI • SQL • LLM • RAG • Automation
+Designed as an MVP to process customer orders, validate inputs, and interact with
+backend systems using LLMs and structured data.
+
+**Highlights**
+- Conversational automation
+- Intelligent validation & routing
+- Backend integration-ready architecture
+
+**Tech Stack:** FastAPI • SQL • LLM • RAG • Automation
+
+---
+
+### 🏦 Bank Fraud Detection
+**Anomaly and fraud detection system for banking transactions.**
+
+Data-driven approach for identifying suspicious transactions using statistical
+and machine learning techniques.
+
+**Highlights**
+- Anomaly detection strategies
+- Feature engineering for transactional data
+- Evaluation of fraud patterns
+
+**Tech Stack:** Python • Pandas • scikit-learn • Anomaly Detection
+
+---
+
+### 🧠 Alzheimer’s Disease Detection (Deep Learning)
+**Medical imaging project for early detection of Alzheimer’s disease.**
+
+Deep learning–based approach for classifying brain images and supporting
+clinical decision-making.
+
+**Highlights**
+- Medical image preprocessing
+- CNN-based classification
+- Focus on healthcare applications
+
+**Tech Stack:** CNN • Deep Learning • Medical Imaging • Python
+
+---
+
+### 🦵 Knee Osteoarthritis (Gonarthrosis) Detection
+**Deep learning model for detecting knee osteoarthritis from medical images.**
+
+Project addressing musculoskeletal disorders using convolutional neural networks
+and imaging data.
+
+**Highlights**
+- Image-based diagnosis support
+- Deep learning applied to orthopedics
+- Health-focused AI application
+
+**Tech Stack:** CNN • Deep Learning • Medical Imaging
 
 ---
 
 ### 🌐 Corporate Website — GD Scan
-Static corporate website developed for GD Scan, focusing on clean UI structure,
-content organization, and responsive design.
+**Static corporate website developed for a real company.**
 
-**Tech:** HTML • CSS • JavaScript
+Designed and implemented a clean, responsive website with a focus on content
+organization and user-friendly layout.
+
+**Tech Stack:** HTML • CSS • JavaScript
+
 
 
 ---
