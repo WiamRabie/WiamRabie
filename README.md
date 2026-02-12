@@ -54,69 +54,62 @@ FastAPI • REST API • SQL • Git • Docker • Jupyter
 
 ## ✨ Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌍 Air Quality Analysis using Deep Learning</h3>
-      <p>
-        Data science project based on the Beijing PM2.5 dataset (2010–2014),
-        focusing on air quality analysis using machine learning and deep learning techniques.
-      </p>
-      <p><b>Tech:</b> Python • Pandas • scikit-learn • Jupyter</p>
-      <p>🔗 <a href="https://github.com/WiamRabie/air-quality-analysis">View repository</a></p>
-    </td>
+### 🤖 SkyBot — RAG AI Assistant
+AI assistant built using Retrieval-Augmented Generation (RAG), enabling users to ask
+questions over uploaded documents through a web interface.
 
-    <td width="50%" valign="top">
-      <h3>🤖 SkyBot — RAG AI Assistant</h3>
-      <p>
-        AI assistant built using Retrieval-Augmented Generation (RAG),
-        enabling users to ask questions over uploaded documents through a web interface.
-      </p>
-      <p><b>Tech:</b> FastAPI • LangChain • FAISS • LLMs (Groq)</p>
-      <p>🔗 <a href="https://github.com/WiamRabie/skybot">View repository</a></p>
-    </td>
-  </tr>
+**Tech:** FastAPI • LangChain • FAISS • LLMs (Groq)  
+🔗 https://github.com/WiamRabie/skybot
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💬 WhatsApp Intelligent Agent (MVP)</h3>
-      <p>
-        Intelligent WhatsApp agent designed to automate customer orders,
-        validate requests, and interact with backend systems.
-      </p>
-      <p><b>Tech:</b> FastAPI • SQL • LLM • RAG • Automation</p>
-    </td>
+---
 
-    <td width="50%" valign="top">
-      <h3>🏦 Bank Fraud Detection</h3>
-      <p>
-        Fraud and anomaly detection system for banking transactions
-        using data-driven and machine learning approaches.
-      </p>
-      <p><b>Tech:</b> Python • Pandas • scikit-learn • Anomaly Detection</p>
-    </td>
-  </tr>
+### 🏦 Bank Fraud Detection
+Fraud and anomaly detection system for banking transactions using data-driven
+and machine learning approaches.
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Alzheimer’s Disease Detection (Deep Learning)</h3>
-      <p>
-        Deep learning–based medical imaging project for the detection
-        of Alzheimer’s disease from brain images.
-      </p>
-      <p><b>Tech:</b> CNN • Deep Learning • Medical Imaging • Python</p>
-    </td>
+**Tech:** Python • Pandas • scikit-learn • Anomaly Detection
 
-    <td width="50%" valign="top">
-      <h3>🦵 Knee Osteoarthritis (Gonarthrosis) Detection</h3>
-      <p>
-        Deep learning model for detecting knee osteoarthritis (gonarthrosis)
-        from medical imaging data.
-      </p>
-      <p><b>Tech:</b> CNN • Deep Learning • Medical Imaging</p>
-    </td>
-  </tr>
-</table>
+---
+
+### 🦵 Knee Osteoarthritis (Gonarthrosis) Detection
+Deep learning model for detecting knee osteoarthritis (gonarthrosis) from
+medical imaging data.
+
+**Tech:** CNN • Deep Learning • Medical Imaging • Python
+
+---
+
+### 🧠 Alzheimer’s Disease Detection (Deep Learning)
+Medical imaging project using deep learning techniques to detect Alzheimer’s
+disease from brain images.
+
+**Tech:** CNN • Deep Learning • Medical Imaging
+
+---
+
+### 🌍 Air Quality Analysis using Deep Learning
+Data science project based on the Beijing PM2.5 dataset (2010–2014), focusing on
+air quality analysis using machine learning and deep learning techniques.
+
+**Tech:** Python • Pandas • scikit-learn • Jupyter  
+🔗 https://github.com/WiamRabie/air-quality-analysis
+
+---
+
+### 💬 WhatsApp Intelligent Agent (MVP)
+Intelligent WhatsApp agent designed to automate customer orders, validate requests,
+and interact with backend systems.
+
+**Tech:** FastAPI • SQL • LLM • RAG • Automation
+
+---
+
+### 🌐 Corporate Website — GD Scan
+Static corporate website developed for GD Scan, focusing on clean UI structure,
+content organization, and responsive design.
+
+**Tech:** HTML • CSS • JavaScript
+
 
 ---
 
