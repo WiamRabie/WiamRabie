@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/WiamRabie/WiamRabie/main/assets/header.gif" width="55%" alt="Header image" />
 
-  <h1>Hi, I’m Wiam 👩‍💻✨</h1>
+  <h1>Hi, I’m Wiame 👩‍💻✨</h1>
 
   <p>
     <b>AI • Data Science • Generative AI • Digital Health</b>
@@ -25,79 +25,95 @@
 
 ## 🌸 About Me
 
-- 🎓 Élève ingénieure en **Génie Digital & Intelligence Artificielle**
-- 🤖 Passionnée par les **LLMs, agents IA (RAG) & automatisation intelligente**
-- 📊 Forte orientation **Data Science** (nettoyage, analyse, prédiction, BI)
-- 🩺 Intérêt appliqué pour la **santé digitale & les données médicales**
-- 🚀 Profil sérieux, curieux et orienté **projets concrets & production**
+- 🎓 Engineering student in **Digital Engineering & Artificial Intelligence**
+- 🤖 Passionate about **LLMs, AI Agents (RAG) & intelligent automation**
+- 📊 Strong background in **Data Science & Machine Learning**
+- 🩺 Strong interest in **Digital Health & medical data**
+- 🚀 Curious, rigorous, and project-driven, with a focus on **real-world AI solutions**
 
 ---
 
-## 💖 Tech Stack 
+## 💖 Tech Stack
 
 ### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-pink?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-lavender?style=flat)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-rose?style=flat)
-![CNN](https://img.shields.io/badge/CNN-beige?style=flat)
-![RNN](https://img.shields.io/badge/RNN-pink?style=flat)
-![LSTM](https://img.shields.io/badge/LSTM-lavender?style=flat)
-![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-rose?style=flat)
+Python • Machine Learning • Deep Learning • CNN • RNN • LSTM • Anomaly Detection
 
 ### 🤖 Generative AI & Agents
-![LLMs](https://img.shields.io/badge/LLMs-pink?style=flat)
-![RAG](https://img.shields.io/badge/RAG-lavender?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-rose?style=flat)
-![Embeddings](https://img.shields.io/badge/Embeddings-beige?style=flat)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-pink?style=flat)
+LLMs • RAG • Prompt Engineering • Embeddings • Vector Search
 
 ### 📊 Data Science & Analytics
-![Pandas](https://img.shields.io/badge/Pandas-lavender?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-rose?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-beige?style=flat)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-pink?style=flat)
-![BI](https://img.shields.io/badge/BI-lavender?style=flat)
+Pandas • NumPy • scikit-learn • Data Cleaning • BI
 
 ### 🩺 Digital Health
-![Medical Data](https://img.shields.io/badge/Medical%20Data-rose?style=flat)
-![Medical Imaging](https://img.shields.io/badge/Medical%20Imaging-beige?style=flat)
-![Clinical Context](https://img.shields.io/badge/Clinical%20Context-pink?style=flat)
+Medical Data • Medical Imaging • Clinical Context
 
 ### 🌐 Backend & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-lavender?style=flat)
-![REST API](https://img.shields.io/badge/REST%20API-rose?style=flat)
-![SQL](https://img.shields.io/badge/SQL-beige?style=flat)
-![Git](https://img.shields.io/badge/Git-pink?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-lavender?style=flat&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-rose?style=flat&logo=jupyter&logoColor=white)
+FastAPI • REST API • SQL • Git • Docker • Jupyter
 
 ---
 
-## ✨ Featured Projects (cards)
+## ✨ Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 Bank Fraud Detection</h3>
-      <p>Détection d’anomalies sur transactions + approche data-driven.</p>
-      <p><b>Tech:</b> Python • Pandas • scikit-learn</p>
+      <h3>🌍 Air Quality Analysis using Deep Learning</h3>
+      <p>
+        Data science project based on the Beijing PM2.5 dataset (2010–2014),
+        focusing on air quality analysis using machine learning and deep learning techniques.
+      </p>
+      <p><b>Tech:</b> Python • Pandas • scikit-learn • Jupyter</p>
+      <p>🔗 <a href="https://github.com/WiamRabie/air-quality-analysis">View repository</a></p>
     </td>
+
     <td width="50%" valign="top">
-      <h3>🧠 Medical Imaging Analysis</h3>
-      <p>IRM & radiographies : traitement d’images + classification Deep Learning.</p>
-      <p><b>Tech:</b> CNN • Python • OpenCV (bases)</p>
+      <h3>🤖 SkyBot — RAG AI Assistant</h3>
+      <p>
+        AI assistant built using Retrieval-Augmented Generation (RAG),
+        enabling users to ask questions over uploaded documents through a web interface.
+      </p>
+      <p><b>Tech:</b> FastAPI • LangChain • FAISS • LLMs (Groq)</p>
+      <p>🔗 <a href="https://github.com/WiamRabie/skybot">View repository</a></p>
     </td>
   </tr>
+
   <tr>
     <td width="50%" valign="top">
       <h3>💬 WhatsApp Intelligent Agent (MVP)</h3>
-      <p>Automatisation de commandes, validation intelligente et intégration ERP.</p>
-      <p><b>Tech:</b> FastAPI • SQL Server • LLM • RAG</p>
+      <p>
+        Intelligent WhatsApp agent designed to automate customer orders,
+        validate requests, and interact with backend systems.
+      </p>
+      <p><b>Tech:</b> FastAPI • SQL • LLM • RAG • Automation</p>
     </td>
+
     <td width="50%" valign="top">
-      <h3>🤖 AI Agent RAG (Internship)</h3>
-      <p>Pipeline recherche + génération, embeddings & interface d’interaction.</p>
-      <p><b>Tech:</b> Python • RAG • Vector Search • API LLM</p>
+      <h3>🏦 Bank Fraud Detection</h3>
+      <p>
+        Fraud and anomaly detection system for banking transactions
+        using data-driven and machine learning approaches.
+      </p>
+      <p><b>Tech:</b> Python • Pandas • scikit-learn • Anomaly Detection</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 Alzheimer’s Disease Detection (Deep Learning)</h3>
+      <p>
+        Deep learning–based medical imaging project for the detection
+        of Alzheimer’s disease from brain images.
+      </p>
+      <p><b>Tech:</b> CNN • Deep Learning • Medical Imaging • Python</p>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3>🦵 Knee Osteoarthritis (Gonarthrosis) Detection</h3>
+      <p>
+        Deep learning model for detecting knee osteoarthritis (gonarthrosis)
+        from medical imaging data.
+      </p>
+      <p><b>Tech:</b> CNN • Deep Learning • Medical Imaging</p>
     </td>
   </tr>
 </table>
@@ -108,63 +124,68 @@
 <summary>💼 Experience</summary>
 <br>
 
-**Stagiaire – AI Agent RAG (Python & Interface Web)** — *SITA*  
-Casablanca | **Juin 2025 – Août 2025**  
-- Conception d’un agent IA basé sur l’approche **RAG**
-- Intégration de modèles de langage via **API**
-- Mise en place d’**embeddings** & recherche vectorielle
-- Pipeline **recherche + génération** d’informations
-- Développement d’une interface d’interaction
-- Automatisation de tâches métier
+<b>AI Agent RAG Intern (Python & Web Interface)</b> — <i>SITA</i><br>
+Casablanca | <b>June 2025 – August 2025</b>
+<ul>
+  <li>Designed and implemented an AI agent using the RAG approach</li>
+  <li>Integrated LLMs via APIs</li>
+  <li>Built embeddings and vector search pipelines</li>
+  <li>Developed a search + generation workflow</li>
+  <li>Created a user interaction interface</li>
+</ul>
 
-**Stagiaire – Conception d’Interface Web** — *GD Scan*  
-Casablanca | **Juillet 2024**  
-- Développement d’une application web
-- Structuration & gestion de données utilisateurs
-- Accès sécurisé aux données
-- Contribution à la logique de gestion de données
+<b>Web Development Intern (Static Website)</b> — <i>GD Scan</i><br>
+Casablanca | <b>July 2024</b>
+<ul>
+  <li>Developed a static corporate website</li>
+  <li>Worked on UI structure and content organization</li>
+  <li>Ensured clean layout and responsive design</li>
+</ul>
 
 </details>
 
+---
 
 <details>
 <summary>🌷 More about me</summary>
 <br>
 
-- 🧩 J’aime transformer des besoins réels en solutions IA claires
-- 🧠 Intérêt pour les **agents autonomes** & l’industrialisation (outils, pipelines)
-- 🎯 Objectif : construire des produits IA **utiles, crédibles et responsables**
-- 🤝 Soft skills : rigueur, curiosité, esprit d’équipe, autonomie
+- 🧩 I enjoy transforming real needs into clear and useful AI solutions
+- 🧠 Strong interest in autonomous agents and AI industrialization
+- 🎯 Goal: build **useful, responsible, and production-ready AI systems**
+- 🤝 Soft skills: rigor, curiosity, autonomy, teamwork
 
 </details>
+
+---
 
 <details>
 <summary>🌍 Languages</summary>
 <br>
 
-- 🇲🇦 Arabe : Langue maternelle  
-- 🇫🇷 Français : B2  
-- 🇬🇧 Anglais : B2  
-- 🇩🇪 Allemand : A1  
+- 🇲🇦 Arabic: Native  
+- 🇫🇷 French: B2  
+- 🇬🇧 English: B2  
+- 🇩🇪 German: A1  
 
 </details>
+
+---
 
 <details>
 <summary>📬 Contact</summary>
 <br>
 
-- 📧 Email : <a href="mailto:rabiewiame@gmail.com">rabiewiame@gmail.com</a>  
-- 💼 LinkedIn : https://www.linkedin.com/in/wiam-rabie-64aaa5340/  
-- 🧷 GitHub : https://github.com/WiamRabie  
+- 📧 Email: <a href="mailto:rabiewiame@gmail.com">rabiewiame@gmail.com</a><br>
+- 💼 LinkedIn: https://www.linkedin.com/in/wiam-rabie-64aaa5340/<br>
+- 🧷 GitHub: https://github.com/WiamRabie  
 
 </details>
 
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="22%" alt="Cute minimal gif" />
-
-✨ <i>Built with ✨, ☕ & curiosity</i> ✨
-
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="22%" alt="Cute minimal gif" />
+  <br><br>
+  ✨ <i>Built with curiosity, creativity & a touch of pink</i> ✨
 </div>
