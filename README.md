@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/WiamRabie/WiamRabie/main/assets/header.gif" width="55%" alt="Header image" />
 
-  <h1>Hi, I’m Wiame 👩‍💻✨</h1>
+  <h1>Hi, I’m Wiam 👩‍💻✨</h1>
 
   <p>
     <b>AI • Data Science • Generative AI • Digital Health</b>
