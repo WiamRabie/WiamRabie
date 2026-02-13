@@ -8,16 +8,18 @@
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/wiam-rabie-64aaa5340/">
+    <a href="https://www.linkedin.com/in/wiam-rabie-64aaa5340/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:rabiewiame@gmail.com">
       <img src="https://img.shields.io/badge/Email-beige?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://github.com/WiamRabie">
+    <a href="https://github.com/WiamRabie" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-rose?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <img src="https://portfolio-wiam-psi.vercel.app/"/>
+    <a href="https://portfolio-wiam-psi.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=vercel&logoColor=white"/>
+    </a>
   </p>
 </div>
 
