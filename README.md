@@ -17,7 +17,7 @@
     <a href="https://github.com/WiamRabie" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-rose?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://portfolio-wiam-psi.vercel.app/" target="_blank">
+    <a href="https://wiamrabie.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge&logo=vercel&logoColor=white"/>
     </a>
   </p>
