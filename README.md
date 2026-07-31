@@ -1,38 +1,96 @@
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8B,100:FF6A88&height=160&section=header&animation=fadeIn" /> <img src="https://raw.githubusercontent.com/WiamRabie/WiamRabie/main/assets/header.gif" width="45%" alt="Header image" /> <h1>Hi, I'm Wiam 👩‍💻✨</h1>h1> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF6A9C&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Wineo+AI;Generative+AI+%7C+RAG+%7C+AI+Agents;Machine+Learning+%26+Deep+Learning;Digital+Health+%2B+AI" alt="Typing SVG" /> <br>
+<div align="center">
 
-<a href="https://www.linkedin.com/in/wiam-rabie-64aaa5340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF6A9C?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:rabiewiame@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/WiamRabie" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF9A8B?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://wiamrabie.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6A88?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8B,100:FF6A88&height=160&section=header&animation=fadeIn" />
+
+<img src="https://raw.githubusercontent.com/WiamRabie/WiamRabie/main/assets/header.gif" width="45%" alt="Header image" />
+
+<h1>Hi, I'm Wiam 👩‍💻✨</h1>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=FF6A9C&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Wineo+AI;Generative+AI+%7C+RAG+%7C+AI+Agents;Machine+Learning+%26+Deep+Learning;Digital+Health+%2B+AI" alt="Typing SVG" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/wiam-rabie-64aaa5340/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF6A9C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:rabiewiame@gmail.com"><img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/WiamRabie" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF9A8B?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://wiamrabie.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6A88?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=WiamRabie&style=flat-square&color=ff6a9c&label=PROFILE+VIEWS" alt="Profile views" /> </div> <br>
+<img src="https://komarev.com/ghpvc/?username=WiamRabie&style=flat-square&color=ff6a9c&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<br>
 
 ## 🌸 About Me
 
-💼 Currently AI Engineer Intern @ Wineo AI, building an AI voice agent + RAG pipeline for Wineo CX (multi-tenant SaaS platform)
-
-🎓 Engineering student in Digital Engineering & Artificial Intelligence (class of 2026)
-
-🤖 Passionate about LLMs, AI Agents (RAG) & intelligent automation
-
-📊 Strong background in Data Science & Machine Learning
-
-🩺 Strong interest in Digital Health & medical data
-
-🚀 Curious, rigorous, and project-driven, with a focus on real-world AI solutions
+- 💼 Currently **AI Engineer Intern @ Wineo AI**, building an AI voice agent + RAG pipeline for Wineo CX (multi-tenant SaaS platform)
+- 🎓 Engineering student in **Digital Engineering & Artificial Intelligence** (class of 2026)
+- 🤖 Passionate about **LLMs, AI Agents (RAG) & intelligent automation**
+- 📊 Strong background in **Data Science & Machine Learning**
+- 🩺 Strong interest in **Digital Health & medical data**
+- 🚀 Curious, rigorous, and project-driven, with a focus on **real-world AI solutions**
 
 <br>
 
 ## 💖 Tech Stack
 
-<table align="center"> <tr> <td align="center" width="140"><b>🧠 AI / ML</b>b></td>td> <td>Python · Machine Learning · Deep Learning · CNN · Classification & Regression · Anomaly Detection</td>td> </tr>tr> <tr> <td align="center"><b>🤖 Generative AI</b>b></td>td> <td>LLMs (LLaMA, GPT, Gemini, Groq) · RAG · LangChain · Embeddings · FAISS · Prompt Engineering · AI Voice Agents</td>td> </tr>tr> <tr> <td align="center"><b>📊 Data & BI</b>b></td>td> <td>Pandas · NumPy · scikit-learn · ETL Pipelines · Power BI</td>td> </tr>tr> <tr> <td align="center"><b>🌐 Full-Stack</b>b></td>td> <td>FastAPI · Flask · Next.js · TypeScript · REST API · JWT Auth</td>td> </tr>tr> <tr> <td align="center"><b>🗄️ Data & Infra</b>b></td>td> <td>SQL · PostgreSQL · MongoDB · Docker · Git · Twilio</td>td> </tr>tr> <tr> <td align="center"><b>🩺 Digital Health</b>b></td>td> <td>Medical Data · Medical Imaging · Clinical Context</td>td> </tr>tr> </table>table> <div align="center"> <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,nextjs,ts,js,html,css,docker,git,github,postgres,mongodb,vscode" /> </div>div> <br>
+<table align="center">
+<tr>
+<td align="center" width="140"><b>🧠 AI / ML</b></td>
+<td>Python · Machine Learning · Deep Learning · CNN · Classification & Regression · Anomaly Detection</td>
+</tr>
+<tr>
+<td align="center"><b>🤖 Generative AI</b></td>
+<td>LLMs (LLaMA, GPT, Gemini, Groq) · RAG · LangChain · Embeddings · FAISS · Prompt Engineering · AI Voice Agents</td>
+</tr>
+<tr>
+<td align="center"><b>📊 Data & BI</b></td>
+<td>Pandas · NumPy · scikit-learn · ETL Pipelines · Power BI</td>
+</tr>
+<tr>
+<td align="center"><b>🌐 Full-Stack</b></td>
+<td>FastAPI · Flask · Next.js · TypeScript · REST API · JWT Auth</td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Data & Infra</b></td>
+<td>SQL · PostgreSQL · MongoDB · Docker · Git · Twilio</td>
+</tr>
+<tr>
+<td align="center"><b>🩺 Digital Health</b></td>
+<td>Medical Data · Medical Imaging · Clinical Context</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,flask,nextjs,ts,js,html,css,docker,git,github,postgres,mongodb,vscode" />
+</div>
+
+<br>
 
 ## 📈 GitHub Stats
 
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=WiamRabie&show_icons=true&theme=radical&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiamRabie&layout=compact&theme=radical&hide_border=true" /> </div>div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiamRabie&theme=radical&hide_border=true" /> </div>div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiamRabie&theme=radical&hide_border=true" width="95%" /> </div>div> <br>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WiamRabie&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiamRabie&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiamRabie&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiamRabie&theme=radical&hide_border=true" width="95%" />
+</div>
+
+<br>
 
 ## 🐍 Contribution Snake
 
-<div align="center"> <img src="https://raw.githubusercontent.com/WiamRabie/WiamRabie/output/github-contribution-grid-snake.svg" width="95%" alt="snake animation" /> </div>div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/WiamRabie/WiamRabie/output/github-contribution-grid-snake.svg" width="95%" alt="snake animation" />
+</div>
 
 <sub align="center">✨ Animated snake that "eats" my contribution graph — auto-generated daily via GitHub Actions.</sub>
 
@@ -41,107 +99,123 @@
 ## ✨ Featured Projects
 
 ### 🎙️ Wineo CX — AI Voice Agent & RAG Platform
-
-AI voice agent integrated into a multi-tenant SaaS customer relationship platform.
+**AI voice agent integrated into a multi-tenant SaaS customer relationship platform.**
 
 Built as part of my final-year engineering internship at Wineo AI: an AI voice agent (Gemini) connected to each client's knowledge base through a RAG pipeline, plus contributions across frontend, backend, and multi-tenant data architecture.
 
 `Gemini` `RAG` `FastAPI` `MongoDB` `Twilio`
 
-### 🩸 Soukar-E — Glucose Tracking App
+---
 
-Full-stack blood glucose tracking application with OCR and AI-powered risk analysis.
+### 🩸 Soukar-E — Glucose Tracking App
+**Full-stack blood glucose tracking application with OCR and AI-powered risk analysis.**
 
 Secure JWT authentication, client-side OCR to read glucometer values from a photo (no image sent to the server), glycemic risk analysis via the OpenAI API with an offline rule-engine fallback, dashboards and PDF export.
 
 `Next.js` `TypeScript` `Flask` `PostgreSQL` `Docker` `OpenAI API`
 
-### 🤖 SkyBot — RAG AI Assistant
+---
 
-Intelligent document-based assistant powered by Retrieval-Augmented Generation.
+### 🤖 SkyBot — RAG AI Assistant
+**Intelligent document-based assistant powered by Retrieval-Augmented Generation.**
 
 Document ingestion, vector-based retrieval (FAISS), context-aware answer generation, exposed via a FastAPI REST API and interactive web UI. Adopted internally by business teams at SITA.
 
-`FastAPI` `LangChain` `FAISS` `Groq` 🔗 https://github.com/WiamRabie/skybot
+`FastAPI` `LangChain` `FAISS` `Groq`
+🔗 https://github.com/WiamRabie/skybot
 
-<br> <details> <summary><b>📂 More Projects</b></summary> <br>
+<br>
 
-✈️ Flight Delay Prediction — Supervised ML to predict flight delays: EDA, feature engineering, model comparison. `Python` `scikit-learn` `Pandas`
+<details>
+<summary><b>📂 More Projects</b></summary>
+<br>
 
-📊 BI & Decision Analytics Pipeline — ETL pipeline with analytical KPIs and Power BI dashboards for decision support. `SQL` `ETL` `Power BI`
+**✈️ Flight Delay Prediction** — Supervised ML to predict flight delays: EDA, feature engineering, model comparison. `Python` `scikit-learn` `Pandas`
 
-🌍 Air Quality Analysis — Deep learning analysis of the Beijing PM2.5 dataset (2010–2014): EDA, preprocessing, ML/DL experimentation. `Python` `Pandas` `scikit-learn` 🔗 https://github.com/WiamRabie/air-quality-analysis
+**📊 BI & Decision Analytics Pipeline** — ETL pipeline with analytical KPIs and Power BI dashboards for decision support. `SQL` `ETL` `Power BI`
 
-🌸 Iris Species Classification — End-to-end ML pipeline: KNN (100% test accuracy), Random Forest (100% after tuning). `scikit-learn` `pandas` `matplotlib` 🔗 https://github.com/WiamRabie/iris-ml-classification-pipeline
+**🌍 Air Quality Analysis** — Deep learning analysis of the Beijing PM2.5 dataset (2010–2014): EDA, preprocessing, ML/DL experimentation. `Python` `Pandas` `scikit-learn`
+🔗 https://github.com/WiamRabie/air-quality-analysis
 
-💬 WhatsApp Intelligent Agent (MVP) — AI-powered WhatsApp agent for order automation and validation. `FastAPI` `SQL` `LLM` `RAG`
+**🌸 Iris Species Classification** — End-to-end ML pipeline: KNN (100% test accuracy), Random Forest (100% after tuning). `scikit-learn` `pandas` `matplotlib`
+🔗 https://github.com/WiamRabie/iris-ml-classification-pipeline
 
-🏦 Bank Fraud Detection — Anomaly and fraud detection on banking transactions. `Python` `Pandas` `scikit-learn`
+**💬 WhatsApp Intelligent Agent (MVP)** — AI-powered WhatsApp agent for order automation and validation. `FastAPI` `SQL` `LLM` `RAG`
 
-🧠 Alzheimer's Disease Detection — CNN-based classification of brain MRI images. `CNN` `Deep Learning` `Medical Imaging`
+**🏦 Bank Fraud Detection** — Anomaly and fraud detection on banking transactions. `Python` `Pandas` `scikit-learn`
 
-🦵 Knee Osteoarthritis Detection — Deep learning model for orthopedic diagnosis support. `CNN` `Deep Learning` `Medical Imaging`
+**🧠 Alzheimer's Disease Detection** — CNN-based classification of brain MRI images. `CNN` `Deep Learning` `Medical Imaging`
 
-🌐 Corporate Website — GD Scan — Responsive corporate website. `HTML` `CSS` `JavaScript`
+**🦵 Knee Osteoarthritis Detection** — Deep learning model for orthopedic diagnosis support. `CNN` `Deep Learning` `Medical Imaging`
 
-</details> <br> <details> <summary><b>💼 Experience</b>b></summary>summary> <br>
+**🌐 Corporate Website — GD Scan** — Responsive corporate website. `HTML` `CSS` `JavaScript`
 
-AI Engineer Intern — Final-Year Project — Wineo AI, Casablanca | March 2026 – July 2026
+</details>
 
-Built an AI voice agent (Gemini) connected to a RAG pipeline for real-time, context-aware answers
+<br>
 
-Designed a tenant-isolated data architecture and knowledge base ingestion pipelines (MongoDB)
+<details>
+<summary><b>💼 Experience</b></summary>
+<br>
 
-Contributed to frontend (conversations dashboard, tenant configuration) and backend (email/WhatsApp/SMS APIs, Twilio integrations)
+**AI Engineer Intern — Final-Year Project** — *Wineo AI*, Casablanca | **March 2026 – July 2026**
+- Built an AI voice agent (Gemini) connected to a RAG pipeline for real-time, context-aware answers
+- Designed a tenant-isolated data architecture and knowledge base ingestion pipelines (MongoDB)
+- Contributed to frontend (conversations dashboard, tenant configuration) and backend (email/WhatsApp/SMS APIs, Twilio integrations)
+- Followed the project end-to-end alongside product and client teams, from specs to production
 
-Followed the project end-to-end alongside product and client teams, from specs to production
+**AI / RAG Engineer Intern** — *SITA*, Casablanca | **June 2025 – August 2025**
+- Designed and implemented an AI agent using the RAG approach
+- Integrated LLMs via APIs (LLaMA, Groq)
+- Built embeddings and vector search pipelines (FAISS)
+- Developed a search + generation workflow exposed via a FastAPI REST API
+- Created a user interaction interface, adopted internally by business teams
 
-AI / RAG Engineer Intern — SITA, Casablanca | June 2025 – August 2025
+**Web Development Intern (Static Website)** — *GD Scan*, Casablanca | **July 2024**
+- Developed a static corporate website
+- Worked on UI structure and content organization
+- Ensured clean layout and responsive design
 
-Designed and implemented an AI agent using the RAG approach
+</details>
 
-Integrated LLMs via APIs (LLaMA, Groq)
+<details>
+<summary><b>🌷 More About Me</b></summary>
+<br>
 
-Built embeddings and vector search pipelines (FAISS)
+- 🧩 I enjoy transforming real needs into clear and useful AI solutions
+- 🧠 Strong interest in autonomous agents and AI industrialization
+- 🎯 Goal: build **useful, responsible, and production-ready AI systems**
+- 🤝 Soft skills: rigor, curiosity, autonomy, teamwork, fast learner
 
-Developed a search + generation workflow exposed via a FastAPI REST API
+</details>
 
-Created a user interaction interface, adopted internally by business teams
+<details>
+<summary><b>🌍 Languages</b></summary>
+<br>
 
-Web Development Intern (Static Website) — GD Scan, Casablanca | July 2024
+- 🇲🇦 Arabic — Native
+- 🇫🇷 French — Fluent
+- 🇬🇧 English — Professional (TOEIC certified)
+- 🇩🇪 German — A1
 
-Developed a static corporate website
+</details>
 
-Worked on UI structure and content organization
+<details>
+<summary><b>📬 Contact</b></summary>
+<br>
 
-Ensured clean layout and responsive design
+- 📧 Email: [rabiewiame@gmail.com](mailto:rabiewiame@gmail.com)
+- 💼 LinkedIn: [wiam-rabie](https://www.linkedin.com/in/wiam-rabie-64aaa5340/)
+- 🧷 GitHub: [@WiamRabie](https://github.com/WiamRabie)
 
-</details> <details> <summary><b>🌷 More About Me</b>b></summary>summary> <br>
+</details>
 
-🧩 I enjoy transforming real needs into clear and useful AI solutions
+<br>
 
-🧠 Strong interest in autonomous agents and AI industrialization
+<div align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="18%" alt="Cute minimal gif" />
+  <br><br>
+  ✨ <i>Built with curiosity, creativity & a touch of pink</i> ✨
+</div>
 
-🎯 Goal: build useful, responsible, and production-ready AI systems
-
-🤝 Soft skills: rigor, curiosity, autonomy, teamwork, fast learner
-
-</details> <details> <summary><b>🌍 Languages</b>b></summary>summary> <br>
-
-🇲🇦 Arabic — Native
-
-🇫🇷 French — Fluent
-
-🇬🇧 English — Professional (TOEIC certified)
-
-🇩🇪 German — A1
-
-</details> <details> <summary><b>📬 Contact</b>b></summary>summary> <br>
-
-📧 Email: rabiewiame@gmail.com
-
-💼 LinkedIn: wiam-rabie
-
-🧷 GitHub: @WiamRabie
-
-</details> <br> <div align="center"> <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="18%" alt="Cute minimal gif" /> <br><br> ✨ <i>Built with curiosity, creativity & a touch of pink</i>i> ✨ </div>div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8B,100:FF6A88&height=100&section=footer" /></tr></td></td></tr></tr></td></td></tr></h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A8B,100:FF6A88&height=100&section=footer" />
