@@ -69,33 +69,6 @@
 
 <br>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WiamRabie&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiamRabie&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WiamRabie&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiamRabie&theme=radical&hide_border=true" width="95%" />
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/WiamRabie/WiamRabie/output/github-contribution-grid-snake.svg" width="95%" alt="snake animation" />
-</div>
-
-<sub align="center">✨ Animated snake that "eats" my contribution graph — auto-generated daily via GitHub Actions.</sub>
-
-<br><br>
-
 ## ✨ Featured Projects
 
 ### 🎙️ Wineo CX — AI Voice Agent & RAG Platform
